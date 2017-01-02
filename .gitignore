@@ -13,6 +13,7 @@ wp-contnet/mu-plugins/
 wp-content/object-cache.php
 wp-content/mysql.sql
 
+.DS_Store
 /.htaccess
 /license.txt
 /readme.html
