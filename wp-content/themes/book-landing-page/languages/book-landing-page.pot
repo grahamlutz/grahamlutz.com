@@ -1,0 +1,611 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-11-28 08:51+0000\n"
+"POT-Revision-Date: Tue May 03 2016 15:21:41 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+msgid "Sorry, The Page Not Found"
+msgstr ""
+
+#: 404.php:19
+#, php-format
+msgid ""
+"Can&rsquo;t find what you need? Take a moment and do a search below or start "
+"from our <a href=\"%s\">Homepage</a>"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:47
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:48
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/custom-functions.php:284
+msgid "Name*"
+msgstr ""
+
+#: inc/custom-functions.php:286
+msgid "Email*"
+msgstr ""
+
+#: inc/custom-functions.php:288
+msgid "Website"
+msgstr ""
+
+#: inc/custom-functions.php:303
+msgid "Comment"
+msgstr ""
+
+#: inc/custom-functions.php:305
+msgid "Submit"
+msgstr ""
+
+#: inc/extras.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:49 inc/extras.php:55
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/extras.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/extras.php:82
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/extras.php:91 template-parts/content-page.php:40
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/extras.php:140
+msgid "<span class=\"fa fa-angle-double-left\"></span>"
+msgstr ""
+
+#: inc/extras.php:141
+msgid "<span class=\"fa fa-angle-double-right\"></span>"
+msgstr ""
+
+#. $id
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:25
+msgid "Right Sidebar(default)"
+msgstr ""
+
+#: inc/metabox.php:30
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:42
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:107 inc/customizer/breadcrumb.php:76
+msgid ">"
+msgstr ""
+
+#: inc/template-functions.php:108 inc/customizer/breadcrumb.php:58
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions.php:134
+msgid "Search Result"
+msgstr ""
+
+#: inc/template-functions.php:200
+msgid "404 Error - Page not Found"
+msgstr ""
+
+#: inc/template-functions.php:209
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:242
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: inc/template-functions.php:324
+msgid "About Admin"
+msgstr ""
+
+#: inc/template-functions.php:405
+msgid "Copyright &copy;&nbsp;"
+msgstr ""
+
+#. Theme URI of the theme
+#: inc/template-functions.php:408
+msgid "http://raratheme.com/wordpress-themes/book-landing-page/"
+msgstr ""
+
+#: inc/template-functions.php:409
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:409
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:36 template-parts/content.php:57
+#: inc/widgets/widget-featured-post.php:95
+#: inc/widgets/widget-featured-post.php:135
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:45
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:12
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:30
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:48
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:66
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:84
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer/custom.php:14
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: inc/customizer/custom.php:32
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/custom.php:34
+msgid "Put your custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:16
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer/default.php:24
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer/default.php:25
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr ""
+
+#: inc/widgets/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-featured-post.php:83
+msgid "--Choose--"
+msgstr ""
+
+#: inc/widgets/widget-featured-post.php:100
+msgid "Posts"
+msgstr ""
+
+#: inc/widgets/widget-featured-post.php:110
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widgets/widget-featured-post.php:116
+#: inc/widgets/widget-popular-post.php:119
+#: inc/widgets/widget-recent-post.php:115
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:108
+#: inc/widgets/widget-recent-post.php:104
+#: inc/widgets/widget-social-links.php:93
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:113
+#: inc/widgets/widget-recent-post.php:109
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:124
+#: inc/widgets/widget-recent-post.php:120
+msgid "Show Post Date"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:55
+#: inc/widgets/widget-social-links.php:98
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:57
+#: inc/widgets/widget-social-links.php:103
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:59
+#: inc/widgets/widget-social-links.php:108
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:61
+#: inc/widgets/widget-social-links.php:113
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:63
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:65
+#: inc/widgets/widget-social-links.php:123
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:118
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/widgets/widgets.php:15
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Subscription Widget"
+msgstr ""
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/home/about.php:52
+msgid "About Section Title"
+msgstr ""
+
+#: inc/customizer/home/about.php:70
+msgid "About Section Content"
+msgstr ""
+
+#: inc/customizer/home/about.php:89
+msgid "About Video Embed Link"
+msgstr ""
+
+#: inc/customizer/home/about.php:107 inc/customizer/home/banner.php:52
+#: inc/customizer/home/promotional.php:52 inc/customizer/home/review.php:107
+msgid "Select Post"
+msgstr ""
+
+#: inc/customizer/home/banner.php:16
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/home/banner.php:34
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer/home/banner.php:71
+msgid "Banner Section Button Text"
+msgstr ""
+
+#: inc/customizer/home/banner.php:89
+msgid "Banner Section Button Link"
+msgstr ""
+
+#: inc/customizer/home/banner.php:109 inc/customizer/home/promotional.php:109
+msgid "Upload Accepted Cards Image"
+msgstr ""
+
+#: inc/customizer/home/features.php:16
+msgid "Features Section"
+msgstr ""
+
+#: inc/customizer/home/features.php:34
+msgid "Enable Features Section"
+msgstr ""
+
+#: inc/customizer/home/features.php:52
+msgid "Features Section Title"
+msgstr ""
+
+#: inc/customizer/home/features.php:71
+msgid "Features Section Content"
+msgstr ""
+
+#: inc/customizer/home/features.php:89
+msgid "Select Feature Post One"
+msgstr ""
+
+#: inc/customizer/home/features.php:108
+msgid "Select Feature Post Two"
+msgstr ""
+
+#: inc/customizer/home/features.php:127
+msgid "Select Feature Post Three"
+msgstr ""
+
+#: inc/customizer/home/features.php:146
+msgid "Select Feature Post Four"
+msgstr ""
+
+#: inc/customizer/home/features.php:165
+msgid "Select Feature Post Five"
+msgstr ""
+
+#: inc/customizer/home/features.php:184
+msgid "Select Features Post Six"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:16
+msgid "Promotional Section"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:34
+msgid "Enable Promotional Section"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:71
+msgid "Promotional Section Button Link"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:89
+msgid "Promotional Section Button Text"
+msgstr ""
+
+#: inc/customizer/home/review.php:16
+msgid "Review Section"
+msgstr ""
+
+#: inc/customizer/home/review.php:34
+msgid "Enable Review Section"
+msgstr ""
+
+#: inc/customizer/home/review.php:52
+msgid "Review Section Title"
+msgstr ""
+
+#: inc/customizer/home/review.php:70
+msgid "Review Section Content"
+msgstr ""
+
+#: inc/customizer/home/review.php:89
+msgid "Review Video Embed Link"
+msgstr ""
+
+#: inc/customizer/home/subscribe.php:16
+msgid "Subscribe Settings"
+msgstr ""
+
+#: inc/customizer/home/subscribe.php:34
+msgid "Enable Subscribe"
+msgstr ""
+
+#: inc/customizer/home/subscribe.php:35
+msgid "Newsletters plugin must be activated for this section to be enable. "
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:16
+msgid "Sample Menu Settings"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:34
+msgid "Enable Sample Menu"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:52
+msgid "Sample Menu Section Title"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:70
+msgid "Sample Menu Section Content"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:88
+msgid "Select Post One"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:108
+msgid "Select Post Two"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:127
+msgid "Select Post Three"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:146
+msgid "Select Post Four"
+msgstr ""
+
+#: inc/customizer/home/tabmenu.php:165
+msgid "Select Post Five"
+msgstr ""
+
+#: inc/customizer/home/testimonial.php:16
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/home/testimonial.php:34
+msgid "Enable Testimonial Section"
+msgstr ""
+
+#: inc/customizer/home/testimonial.php:52
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/customizer/home/testimonial.php:70
+msgid "Testimonial Section Content"
+msgstr ""
+
+#: inc/customizer/home/testimonial.php:88
+msgid "Select Testimonial Post One"
+msgstr ""
+
+#: inc/customizer/home/testimonial.php:108
+msgid "Select Testimonial Post Two"
+msgstr ""
+
+#. Name of the theme
+msgid "Book Landing Page"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Book Landing Page is a beautiful WordPress theme suitable for creating "
+"landing page for your book. The home page is thoughtfully designed to "
+"increase leads and purchase of the book. The theme is easy to use and "
+"doesn’t require coding experienc. You can launch your book in less than 10 "
+"minutes with Book Landing Page and market your book. Book Landing Page is "
+"mobile friendly. It is also translation ready."
+msgstr ""
+
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr ""
