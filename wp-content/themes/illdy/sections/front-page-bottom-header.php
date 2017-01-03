@@ -43,7 +43,7 @@ if ( $first_row_from_title || $second_row_from_title || $third_row_from_title ||
 							} ?>
 
 							<?php if ( $third_row_from_title ) {
-								echo '<span data-customizer="third-row-from-title">' . illdy_sanitize_html( $third_row_from_title ) . '</span>';
+								echo '<span data-customizer="third-row-from-title">' . illdy_sanitize_html( $third_row_from_title ) . '</span><span class="span-dot third-span-dot">' . __( '.', 'illdy' ) . '</span>';
 							} ?>
 						</h2>
 					</div><!--/.col-sm-12-->
