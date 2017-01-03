@@ -13,11 +13,6 @@ Author URI: http://freewptp.com/
 }
 
 #header .top-header .header-navigation ul li a {
-    color: #ffde00;
     text-decoration: none;
     text-shadow: 1px 1px 2px black;
-}
-
-#header .top-header .header-navigation ul li a:hover {
-    color: white;
 }
