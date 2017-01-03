@@ -11,3 +11,13 @@ Author URI: http://freewptp.com/
     font-weight: 900;
     text-transform: uppercase;
 }
+
+#header .top-header .header-navigation ul li a {
+    color: #ffde00;
+    text-decoration: none;
+    text-shadow: 2px 2px 0px black;
+}
+
+#header .top-header .header-navigation ul li a:hover {
+    color: white;
+}
