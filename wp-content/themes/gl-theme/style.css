@@ -4,3 +4,10 @@ Template: illdy
 Author: Free WP TP
 Author URI: http://freewptp.com/
 */
+
+
+#header .top-header .header-logo {
+    font-size: 37px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
