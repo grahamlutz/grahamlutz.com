@@ -78,6 +78,10 @@ else:
 		illdy_sections_order( $sections_order_first_section );
 	endif;
 
+  if( $sections_order_fourth_section ):
+		illdy_sections_order( $sections_order_fourth_section );
+	endif;
+
 	if( $sections_order_second_section ):
 		illdy_sections_order( $sections_order_second_section );
 	endif;
@@ -86,10 +90,7 @@ else:
 		illdy_sections_order( $sections_order_third_section );
 	endif;
 
-	if( $sections_order_fourth_section ):
-		illdy_sections_order( $sections_order_fourth_section );
-	endif;
-
+  // Latest News Section
   if( $sections_order_fifth_section ):
 		illdy_sections_order( $sections_order_fifth_section );
 	endif;
