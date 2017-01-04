@@ -74,12 +74,12 @@ else:
 		endwhile;
 	endif;
 
-	if( $sections_order_first_section ):
-		illdy_sections_order( $sections_order_first_section );
-	endif;
-
   if( $sections_order_fourth_section ):
 		illdy_sections_order( $sections_order_fourth_section );
+	endif;
+
+	if( $sections_order_first_section ):
+		illdy_sections_order( $sections_order_first_section );
 	endif;
 
 	if( $sections_order_second_section ):
