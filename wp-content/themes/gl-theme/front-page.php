@@ -79,17 +79,19 @@ else:
 		illdy_sections_order( $sections_order_fourth_section );
 	endif;
 
-	if( $sections_order_second_section ):
-		illdy_sections_order( $sections_order_second_section );
+  // Latest News Section
+  if( $sections_order_fifth_section ):
+		illdy_sections_order( $sections_order_fifth_section );
 	endif;
 
+  // Testimonials Section
 	if( $sections_order_third_section ):
 		illdy_sections_order( $sections_order_third_section );
 	endif;
 
-  // Latest News Section
-  if( $sections_order_fifth_section ):
-		illdy_sections_order( $sections_order_fifth_section );
+  // Projects Section
+	if( $sections_order_second_section ):
+		illdy_sections_order( $sections_order_second_section );
 	endif;
 
 	if( $sections_order_sixth_section ):
@@ -104,6 +106,7 @@ else:
 		illdy_sections_order( $sections_order_eighth_section );
 	endif;
 
+  // About Section
   if( $sections_order_first_section ):
 		illdy_sections_order( $sections_order_first_section );
 	endif;
