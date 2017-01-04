@@ -74,12 +74,9 @@ else:
 		endwhile;
 	endif;
 
+  // Services Section
   if( $sections_order_fourth_section ):
 		illdy_sections_order( $sections_order_fourth_section );
-	endif;
-
-	if( $sections_order_first_section ):
-		illdy_sections_order( $sections_order_first_section );
 	endif;
 
 	if( $sections_order_second_section ):
@@ -105,6 +102,10 @@ else:
 
 	if( $sections_order_eighth_section ):
 		illdy_sections_order( $sections_order_eighth_section );
+	endif;
+
+  if( $sections_order_first_section ):
+		illdy_sections_order( $sections_order_first_section );
 	endif;
 endif;
 
