@@ -11,10 +11,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A starter theme called Illdy.
 
-== Description ==
-
-Illdy is a free premium one page WordPress theme.
-
 == Installation ==
 	
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
